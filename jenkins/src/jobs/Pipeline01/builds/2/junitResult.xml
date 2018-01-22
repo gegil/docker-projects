@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<result plugin="junit@1.23">
+  <suites>
+    <suite>
+      <file>/var/jenkins_home/jobs/Pipeline01/workspace/target/surefire-reports/TEST-com.techprimers.testing.FizzBuzzTest.xml</file>
+      <name>com.techprimers.testing.FizzBuzzTest</name>
+      <duration>0.361</duration>
+      <time>0.221</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>0.037</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Play FizzBuzz with number = 3</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Play FizzBuzz with number = 5</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.022</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Don&apos;t Play FizzBuzz with number = 0</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Play FizzBuzz with number = 1</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.02</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Play FizzBuzz with number = 1</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Play FizzBuzz with number = 3</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.0</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Play FizzBuzz with number = 5</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.011</duration>
+          <className>com.techprimers.testing.FizzBuzzTest</className>
+          <testName>Don&apos;t Play FizzBuzz with number = 0</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>0.361</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

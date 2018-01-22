@@ -1,0 +1,4 @@
+[withMaven] Options: []
+[withMaven] Available options: 
+[withMaven] use JDK installation provided by the build agent
+[withMaven] use Maven installation 'maven_3_5_0'
